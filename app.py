@@ -119,9 +119,5 @@ Answer:
     finally:
 
         os.unlink(tmp_path)
-      streamlit
-google-generativeai>=0.8.5
-sentence-transformers
-faiss-cpu
-pypdf
-numpy
+      
+
