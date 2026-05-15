@@ -1,5 +1,5 @@
 import streamlit as st
-import google.generativeai as gemini
+import google.generativeai as genai
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
